@@ -17,7 +17,7 @@ This is a simple Discord bot script that allows you to send messages to multiple
 1. **Clone the repository** (or download the script):
     ```bash
     git clone https://github.com/elsuselamos/Discord-Auto-Chat.git
-    cd Discord-auto-chat-py
+    cd Discord-Auto-Chat
     ```
 
 2. **Install the required libraries**:
